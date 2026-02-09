@@ -1,2 +1,0 @@
-aiml branch has two sections,aiml is a sub branch of cse
-
